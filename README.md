@@ -446,3 +446,4 @@ You can find more documentation about the API in the [API reference](./doc/Readm
 This library is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 Some of this documentation is coming from the official documentation. You can find it completely on the [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) Website.
+
