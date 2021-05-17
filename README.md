@@ -5,7 +5,7 @@
 
 ## Introduction
 
-**FORK FROM adhityairvan/Laravel-FCM. Fixing compatibility issue with laravel/lumen 8**
+**CUSTOM FROM adhityairvan/Laravel-FCM. Fixing add image to notification**
 
 Laravel-FCM is an easy to use package working with both Laravel and Lumen for sending push notification with [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM).
 
@@ -23,7 +23,7 @@ It currently **only supports HTTP protocol** for :
 To get the latest version of Laravel-FCM on your project, require it from "composer":
 
 
-	$ composer require adhityairvan/laravel-fcm
+	$ composer require halalpedia/laravel-fcm
 
 
 Or you can add it directly in your composer.json file:
@@ -31,7 +31,7 @@ Or you can add it directly in your composer.json file:
 ```json
 {
     "require": {
-        "adhityairvan/laravel-fcm": "^1.4.*"
+        "halalpedia/laravel-fcm": "^1.4.*"
     }
 }
 ```
